@@ -1,0 +1,4 @@
+machine:
+  environment:
+    XCODE_SCHEME: CircleCITest
+
